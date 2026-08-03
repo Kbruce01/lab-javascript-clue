@@ -139,17 +139,17 @@ Declare a function named `pickMystery` that takes no arguments and returns an ob
 
 <br>
 
-### Iteration 3: Reveal the mystery
+  ### Iteration 3: Reveal the mystery
 
-At last, we are ready to reveal the mystery.
+  At last, we are ready to reveal the mystery.
 
-Declare a function named `revealMystery` that receives an _envelope_ `object` (with the shape of the object returned by `pickMystery`) as the single argument and returns a revealing message in the following format:
+  Declare a function named `revealMystery` that receives an _envelope_ `object` (with the shape of the object returned by `pickMystery`) as the single argument and returns a revealing message in the following format:
 
-**\<FIRST NAME\> \<LAST NAME\> killed Mr. Boddy using the \<WEAPON\> in the \<ROOM\>!**
+  **\<FIRST NAME\> \<LAST NAME\> killed Mr. Boddy using the \<WEAPON\> in the \<ROOM\>!**
 
 <br>
 
-## Extra Resources
+## Extra Resources4
 
 - [Data Structures: Objects and Arrays](http://eloquentjavascript.net/04_data.html)
 - [20 Mind-blowing facts about Cluedo](http://whatculture.com/offbeat/20-mind-blowing-facts-you-didnt-know-about-cluedo)
